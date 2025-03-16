@@ -12,7 +12,12 @@
 
     <link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet" />
     <script src="{{ .Site.BaseURL }}js/bootstrap.bundle.min.js"></script>
-
+    <style>
+    @font-face {
+        font-family: "redhatdisplay-xtrabold";
+        src: url("{{ .Site.BaseURL }}fonts/RedHatDisplay-ExtraBold.ttf");
+    }
+    </style>
     {{ $style := resources.Get "sass/main.scss" | css.Sass | resources.Minify |
     resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" />
