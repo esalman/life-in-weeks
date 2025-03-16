@@ -17,6 +17,10 @@
         font-family: "redhatdisplay-xtrabold";
         src: url("{{ .Site.BaseURL }}fonts/RedHatDisplay-ExtraBold.ttf");
     }
+    @font-face {
+        font-family: redhatdisplay-medium;
+        src: url(/fonts/RedHatDisplay-Medium.ttf);
+    }
     </style>
     {{ $style := resources.Get "sass/main.scss" | css.Sass | resources.Minify |
     resources.Fingerprint }}
