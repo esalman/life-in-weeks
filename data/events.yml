@@ -4,21 +4,23 @@
 #
 "1985-04-27":
     - headline: "🐣 I was born"
+      description: "..."
       based: "Dhaka"
+      doing: "I was tiny"
 
-# "1980-09-01":
-#     - headline: "🖍️ Kindergarten"
-#       description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
-#       based: "Brooklyn"
-#       doing: "Kindergartner"
-#       association: "Tiny Tot Schoolhouse"
+"1986-09-01":
+    - headline: "🖍️ Kindergarten"
+      description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
+      based: "Brooklyn"
+      doing: "Kindergartner"
+      association: "Tiny Tot Schoolhouse"
 
-# "1981-09-01":
-#     - headline: "📓 Elementary school"
-#       description: "Went to Catholic school, with uniforms, nuns, mass, and all."
-#       based: "Brooklyn"
-#       doing: "Student"
-#       association: "St. E"
+"1987-09-01":
+    - headline: "📓 Elementary school"
+      description: "Went to Catholic school, with uniforms, nuns, mass, and all."
+      based: "Brooklyn"
+      doing: "Student"
+      association: "St. E"
 
 # "1984-04-01":
 #     - headline: "🖥️ First computer"
