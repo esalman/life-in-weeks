@@ -10,28 +10,124 @@
 
 "1986-09-01":
     - headline: "🖍️ Kindergarten"
-      description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
-      based: "Brooklyn"
+      description: "Went to \"Shishu Kallyan KG Junior High School\"."
+      based: "dhaka"
       doing: "Kindergartner"
-      association: "Tiny Tot Schoolhouse"
-
-"1987-09-01":
-    - headline: "📓 Elementary school"
-      description: "Went to Catholic school, with uniforms, nuns, mass, and all."
-      based: "Brooklyn"
-      doing: "Student"
-      association: "St. E"
+      association: "\"Shishu Kallyan\""
 
 # "1984-04-01":
 #     - headline: "🖥️ First computer"
 #       description: "Dad loved gadgets and was ahead of his time when he bought us an IBM PCjr. Wrote my first BASIC programs on that machine, played the Keyboard Adventure easter egg game, Kings Quest and Space Quest, and drew a pixelated Van Halen logo with A."
 
-# "1989-09-01":
-#     - headline: "📚 High school"
-#       description: "All girls Catholic high schoool, where my sister went."
-#       based: "Brooklyn"
-#       doing: "High school student"
-#       association: "BKHS"
+"1993-01-01":
+    - headline: "📚 Primary school"
+      description: "Monipur High School. It was a famous back in the day."
+      based: "Dhaka"
+      doing: "Primary school student"
+      association: "MUB"
+
+"1995-05-06":
+    - headline: "💔 Lost Father"
+      description: "I will never amount to what you been. رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا "
+
+"1996-01-01":
+    - headline: "📚 High school"
+      description: "Monipur High School. It was a famous back in the day."
+      based: "Dhaka"
+      doing: "High school student"
+      association: "MUB"
+
+"1999-12-31":
+    - headline: "💥 Y2K"
+      description: "Barely affected."
+
+"2001-07-01":
+    - headline: "📚 College"
+      description: "Notre Dame College. Very privileged to have been there."
+      based: "Dhaka"
+      doing: "College student"
+      association: "NDC"
+
+"2003-07-01":
+    - headline: "📚 University"
+      description: "BUET. Chose EEE over CS. No regrets."
+      based: "Dhaka"
+      doing: "University student"
+      association: "BUET"
+
+"2009-01-01":
+    - headline: "🎓 Graduated"
+      description: "Bachelor of Science in Electrical & Electronic Engineering"
+      based: "Dhaka"
+      doing: "University student"
+      association: "BUET"
+
+"2009-11-01":
+    - headline: "⚡️ Technobd"
+      description: "Started my first professional web developer job at Technobd. HTML, CSS, Linux, Apache, MySQL, and PHP."
+      based: "Dhaka"
+      doing: "Working"
+      association: "Technobd"
+
+"2010-01-01":
+    - headline: "📚 Business school"
+      description: "Part-time MBA at Institute of Business Administration, Dhaka University. Had nothing better to do in the evenings."
+      based: "Dhaka"
+      doing: "Working-part-time-study"
+      association: "IBA"
+
+"2011-12-01":
+    - headline: "👩‍✈️ Dimik"
+      based: "Dhaka"
+      doing: "Entrepreneurship"
+      association: "Dimik"
+      description: "Started Dimik with Tomal and Shible to try develop software for stock market."
+
+"2014-10-18":
+    - headline: "💝 First chat with M"
+      description: "Start of a shared journey."
+
+"2015-07-22":
+    - headline: "💍 Married M"
+      description: "With our families' blessings."
+
+"2015-08-15":
+    - headline: "🏫 Graduate school"
+      description: "Left Bangladesh for PhD in ECE at University of New Mexico."
+      based: "Albuquerque"
+      doing: "Grad student"
+      association: "UNM"
+
+"2015-08-21":
+    - headline: "☀️ Moved to Albuquerque"
+      based: "Albuquerque"
+      description: "Switched continents, to where M was."
+
+"2019-05-01":
+    - headline: "🏫 Graduate school"
+      description: "Professor Calhoun moved his lab to Georgia Institute of Technology."
+      based: "Atlanta"
+      doing: "Grad student"
+      association: "GT"
+
+"2021-05-03":
+    - headline: "🐣 A born"
+      description: "At last."
+
+"2022-05-03":
+    - headline: "👶 A turned 1"
+
+"2022-11-07":
+    - headline: "🛗 RMS"
+      description: "First job in US. Certified risk models used by (re)insurance companies."
+      doing: "Working"
+      association: "RMS"
+
+"2023-05-03":
+    - headline: "👶 A turned 2"
+
+"2024-05-03":
+    - headline: "👶 A turned 3"
 
 # "1989-11-23":
 #     - headline: "🎫 First concert"
@@ -45,13 +141,6 @@
 #     - headline: "🪪 Drivers license"
 #       description: "The day I passed my drivers test, my parents looked stricken."
 
-# "1993-09-02":
-#     - headline: "🏫 Left for college"
-#       based: "Poughkeepsie"
-#       doing: "College student"
-#       association: "Marist"
-#       description: "Went to Marist College thanks to a scholarship, a loan, Mom & Dad, and Metro-North."
-
 # "1993-09-15":
 #     - headline: "🖨️ Help desk"
 #       description: "Started an on-campus job at Marist's computer lab help desk, where I worked all 4 years. The lab ran mainframe terminals, OS/2 and DOS workstations. Printers jammed constantly. Earned minimum wage, $4.25/hour, and learned so much."
@@ -64,24 +153,9 @@
 #     - headline: "🌎 Saw my first webpage"
 #       description: "Around this time, I saw a webpage for the first time. A coworker in the computer lab showed me the Mosaic browser running on OS/2. Lightbulb moment."
 
-# "1995-10-03":
-#     - headline: "💔 Lost Dad"
-#       description: "Miss you every day."
-
 # "1996-10-01":
 #     - headline: "🌎 Made my first webpages"
 #       description: "Around this time, I started making my own webpages in earnest, spending long nights in the lab office, a room of my own with a computer and a door."
-
-# "1997-03-21":
-#     - headline: "💝 First date with T"
-#       description: "She asked, thank goodness."
-
-# "1997-06-15":
-#     - headline: "🎓 Graduated college"
-#       description: "Bachelor of Arts in English, Creative Writing"
-#       doing: "Funemployed"
-#       based: "Brooklyn"
-#       association: ""
 
 # "1997-06-29":
 #     - headline: "🗽 NY Liberty"
@@ -94,52 +168,17 @@
 #     - headline: "🌅 Went west"
 #       description: "Took my first trip to the left coast with Mom & L. We visited Phoenix, Sedona, Yosemite, and San Francisco. This is when I knew I'd move west someday."
 
-# "1997-07-15":
-#     - headline: "🛗 Elevators"
-#       description: "First professional IT job at the elevator company where Dad and my brothers worked. Elevator control is a fascinating engineering and programming problem. Mostly learned networking and programming Java here."
-#       doing: "Working"
-#       association: "O. Thompson"
-
-# "1997-09-01":
-#     - headline: "📚 Grad school"
-#       description: "A computer science program for which this English major was missing most math prerequisites. Catchup was tough."
-#       based: "Brooklyn"
-#       doing: "Student"
-#       association: "CUNY"
-
-# "1999-06-15":
-#     - headline: "🎓 Graduated"
-#       description: "Master's of Science in Computer Information Systems"
-#       based: "Brooklyn"
-#       doing: "Working"
-#       association: "O. Thompson"
-
 # "1999-10-15":
 #     - headline: "🛩️ Skydove, engaged"
 #       description: "T proposed and then we jumped out of an airplane. Not sure which was scarier."
-
-# "1999-12-31":
-#     - headline: "💥 Y2K"
-#       description: "We survived!"
 
 # "2000-01-01":
 #     - headline: "🚙 Left home"
 #       description: "Moved in with L, my first working-adult apartment."
 
-# "2000-03-01":
-#     - headline: "⚡️ Bolt"
-#       description: "Started my first professional web developer job at an NYC dot-com, an early social network for teens. Learned ASP, SQL, and PHP here but most importantly, met a lifelong friend."
-#       based: "Brooklyn"
-#       doing: "Working"
-#       association: "Bolt"
-
 # "2000-09-10":
 #     - headline: "🪴 Moved in with T"
 #       description: "Rented the garden apartment of a brownstone together."
-
-# "2001-06-02":
-#     - headline: "💍 Married T"
-#       description: "We wore matching dresses and Doc Martens. Our families recognized our marriage, the government did not."
 
 # "2001-09-11":
 #     - headline: "💔 9/11"
@@ -168,23 +207,9 @@
 #     - headline: "🚁 Helicopter flight"
 #       description: "Celebrated my birthday in a helicopter above NYC."
 
-# "2005-01-30":
-#     - headline: "👩‍✈️ Lifehacker"
-#       based: "Brooklyn"
-#       doing: "Working"
-#       association: "Lifehacker"
-#       description: "Started Lifehacker at Gawker with Nick and Choire coaching me on how to evolve from a personal blogger to a working media blogger."
-
 # "2005-08-23":
 #     - headline: "✈️ Piloted an airplane"
 #       description: "Took my first flying lesson with D in a little four-seater off Cape Cod. What a feeling."
-
-# "2005-09-01":
-#     - headline: "☀️ Moved to San Diego"
-#       based: "San Diego"
-#       doing: "Working"
-#       association: "Lifehacker"
-#       description: "Switched coasts, to T's hometown."
 
 # "2006-05-12":
 #     - headline: "✅ Released Todo.txt"
@@ -245,20 +270,10 @@
 #     - headline: "🇨🇳 Visited China"
 #       description: "Toured Bejing, Shanghai, Guangzhou, Suzhou with T & T."
 
-# "2012-09-18":
-#     - headline: "🐣 E born"
-#       description: "At last."
-
-# "2013-09-18":
-#     - headline: "👶 E turned 1"
-
 # "2013-12-30":
 #     - headline: "🥯 Back to Brooklyn"
 #       based: "Brooklyn"
 #       description: "A baby brings you closer to family. Co-founders like to work in the same city."
-
-# "2014-09-18":
-#     - headline: "👶 E turned 2"
 
 # "2015-05-15":
 #     - headline: "🛠️ Made Makerbase"
@@ -271,9 +286,6 @@
 # "2015-08-04":
 #     - headline: "🇺🇸 White House"
 #       description: "Launched Makerbase at the White House at its first-ever Demo Day, hosted by President Obama on his birthday. We sang Happy Birthday to him in the East Wing."
-
-# "2015-09-18":
-#     - headline: "👶 E turned 3"
 
 # "2016-04-16":
 #     - headline: "🏢 Started at Postlight"

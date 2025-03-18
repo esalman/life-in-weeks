@@ -1,6 +1,6 @@
 ---
 title       : My Life in Weeks
-start_date	: 1975-09-19
+start_date	: 1985-04-27
 end_year    : 2075
 ---
 
