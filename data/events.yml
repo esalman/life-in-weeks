@@ -126,6 +126,10 @@
       doing: "Grad student"
       association: "UNM"
 
+"1992-09-20":
+    - headline: "🪪 Drivers license"
+      description: "Got US driver's license."
+
 "2016-07-22":
     - headline: "💍 First anniversary"
       description: "Celebrated at Los Poblanos Historic Inn & Organic Farm."
@@ -162,6 +166,21 @@
     - headline: "💔 Albuquerque hailstorm"
       description: "Our Corolla suffered significant cosmetic damage."
       
+"2018-10-04":
+    - headline: "☀️ Travel to San Antonio"
+      based: "M joined Arias"
+
+"2018-10-28":
+    - headline: "📚 Asilomar conference"
+      description: "Went to Monterey CA."
+      
+"2018-10-31":
+    - headline: "🚙 Big Sur road trip"
+      
+"2019-01-26":
+    - headline: "✈️ Travel to Bangladesh"
+      based: "24 hour layover in Istanbul. Turkish airlines never again."
+
 "2019-05-01":
     - headline: "🏫 Georgia Tech"
       description: "Professor Calhoun moved his lab to Georgia Institute of Technology."
