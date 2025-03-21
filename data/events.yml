@@ -6,12 +6,16 @@
     - headline: "🐣 I was born"
       description: "..."
       based: "Dhaka"
-      doing: "I was tiny"
+      doing: "mini me"
 
-"1986-09-01":
+"1986-01-01":
+    - headline: "✈️ Moved to Middle East"
+      description: "Supposedly in the middle of desert, snow, and mountains."
+
+"1991-01-01":
     - headline: "🖍️ Kindergarten"
       description: "Went to \"Shishu Kallyan KG Junior High School\"."
-      based: "dhaka"
+      based: "Dhaka"
       doing: "Kindergartner"
       association: "\"Shishu Kallyan\""
 
@@ -20,47 +24,53 @@
 #       description: "Dad loved gadgets and was ahead of his time when he bought us an IBM PCjr. Wrote my first BASIC programs on that machine, played the Keyboard Adventure easter egg game, Kings Quest and Space Quest, and drew a pixelated Van Halen logo with A."
 
 "1993-01-01":
-    - headline: "📚 Primary school"
-      description: "Monipur High School. It was a famous back in the day."
+    - headline: "✈️ Moved back to Dhaka"
+      description: "Nanir basa"
       based: "Dhaka"
-      doing: "Primary school student"
+      doing: "student"
+
+"1993-01-02":
+    - headline: "📚 Monipur school"
+      description: "Started class 3 in Monipur High School."
+      based: "Dhaka"
+      doing: "student"
       association: "MUB"
 
 "1995-05-06":
     - headline: "💔 Lost Father"
       description: "I will never amount to what you been. رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا "
 
-"1996-01-01":
-    - headline: "📚 High school"
-      description: "Monipur High School. It was a famous back in the day."
-      based: "Dhaka"
-      doing: "High school student"
-      association: "MUB"
-
 "1999-12-31":
     - headline: "💥 Y2K"
       description: "Barely affected."
 
 "2001-07-01":
-    - headline: "📚 College"
-      description: "Notre Dame College. Very privileged to have been there."
+    - headline: "📚 Notre Dame College"
+      description: "Very privileged to have been there."
       based: "Dhaka"
       doing: "College student"
       association: "NDC"
 
 "2003-07-01":
-    - headline: "📚 University"
-      description: "BUET. Chose EEE over CS. No regrets."
+    - headline: "📚 BUET"
+      description: "Chose EEE over CS. No regrets."
       based: "Dhaka"
       doing: "University student"
       association: "BUET"
 
 "2009-01-01":
-    - headline: "🎓 Graduated"
+    - headline: "🎓 Graduated from BUET"
       description: "Bachelor of Science in Electrical & Electronic Engineering"
       based: "Dhaka"
       doing: "University student"
       association: "BUET"
+
+"2009-01-02":
+    - headline: "🛠️ Looking for a job"
+      based: "Dhaka"
+      doing: "Funemployed"
+      association: ""
+      description: "Freelancing on the side."
 
 "2009-11-01":
     - headline: "⚡️ Technobd"
@@ -73,13 +83,13 @@
     - headline: "📚 Business school"
       description: "Part-time MBA at Institute of Business Administration, Dhaka University. Had nothing better to do in the evenings."
       based: "Dhaka"
-      doing: "Working-part-time-study"
+      doing: "Working"
       association: "IBA"
 
 "2011-12-01":
     - headline: "👩‍✈️ Dimik"
       based: "Dhaka"
-      doing: "Entrepreneurship"
+      doing: "Startup"
       association: "Dimik"
       description: "Started Dimik with Tomal and Shible to try develop software for stock market."
 
@@ -92,7 +102,7 @@
       description: "With our families' blessings."
 
 "2015-08-15":
-    - headline: "🏫 Graduate school"
+    - headline: "🏫 UNM"
       description: "Left Bangladesh for PhD in ECE at University of New Mexico."
       based: "Albuquerque"
       doing: "Grad student"
@@ -103,12 +113,23 @@
       based: "Albuquerque"
       description: "Switched continents, to where M was."
 
+"2015-12-01":
+    - headline: "🏫 Joined MRN"
+      description: "Started working under the supervision of Dr Calhoun at the Mind Research Network on brain imaging."
+      based: "Albuquerque"
+      doing: "Grad student"
+      association: "UNM"
+
 "2019-05-01":
-    - headline: "🏫 Graduate school"
+    - headline: "🏫 Georgia Tech"
       description: "Professor Calhoun moved his lab to Georgia Institute of Technology."
       based: "Atlanta"
       doing: "Grad student"
       association: "GT"
+
+"2019-07-01":
+    - headline: "☀️ Moved to Atlanta"
+      based: "Atlanta"
 
 "2021-05-03":
     - headline: "🐣 A born"
@@ -126,8 +147,20 @@
 "2023-05-03":
     - headline: "👶 A turned 2"
 
+"2023-10-17":
+    - headline: "🎓 Graduated from Georgia Tech with a PhD"
+      description: "Doctor of Philosophy in Electrical & Computer Engineering"
+      based: "Atlanta"
+      association: "GT"
+
+"2023-11-07":
+    - headline: "🏠 Moved to California"
+
 "2024-05-03":
     - headline: "👶 A turned 3"
+
+"2024-12-25":
+    - headline: "🏠 Bought a house"
 
 # "1989-11-23":
 #     - headline: "🎫 First concert"
