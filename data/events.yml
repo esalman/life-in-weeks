@@ -179,7 +179,7 @@
       
 "2019-01-26":
     - headline: "✈️ Travel to Bangladesh"
-      based: "24 hour layover in Istanbul. Turkish airlines never again."
+      description: "24 hour layover in Istanbul. Turkish airlines never again."
 
 "2019-05-01":
     - headline: "🏫 Georgia Tech"
@@ -188,13 +188,28 @@
       doing: "Grad student"
       association: "GT"
 
-"2019-07-01":
+"2019-05-28":
+    - headline: "✈️ Check out from SHF"
+      description: "Bye bye Albuquerque."
+
+"2019-06-11":
+    - headline: "✈️ Day trip to Atlanta"
+      description: "HR paperwork for GT."
+
+"2019-07-09":
     - headline: "☀️ Moved to Atlanta"
-      based: "Atlanta"
+      description: "Lindberg, Atlanta"
 
 "2019-07-22":
     - headline: "💍 Fourth anniversary"
       
+"2019-10-19":
+    - headline: "✈️ Chicago trip"
+      description: "Attended SFN conference."
+
+"2019-11-28":
+    - headline: "☀️ Florida Keys trip"
+
 "2020-03-15":
     - headline: "🦠 Covid-19"
       description: "Global pandemic."
