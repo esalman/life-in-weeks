@@ -89,8 +89,6 @@
     - headline: "📚 Business school"
       description: "Part-time MBA at Institute of Business Administration, Dhaka University. Had nothing better to do in the evenings."
       based: "Dhaka"
-      doing: "Working"
-      association: "IBA"
 
 "2011-12-01":
     - headline: "👩‍✈️ Dimik"
@@ -213,6 +211,7 @@
 "2020-03-15":
     - headline: "🦠 Covid-19"
       description: "Global pandemic."
+      based: "San Antonio"
 
 "2020-07-22":
     - headline: "💍 Fifth anniversary"
