@@ -148,8 +148,19 @@
 "2017-10-14":
     - headline: "🎈 Baloon fiesta"
       
+"2017-12-03":
+    - headline: "✈️ Visited Boulder"
+      description: "Brain imaging course at CO State."
+      
+"2018-02-17":
+    - headline: "💍 M moved to Gainesville Florida"
+      
 "2018-07-22":
     - headline: "💍 Third anniversary"
+      
+"2018-08-22":
+    - headline: "💔 Albuquerque hailstorm"
+      description: "Our Corolla suffered significant cosmetic damage."
       
 "2019-05-01":
     - headline: "🏫 Georgia Tech"
