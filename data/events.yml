@@ -58,6 +58,12 @@
       doing: "University student"
       association: "BUET"
 
+"2004-03-18":
+    - headline: "📚 Entrance day"
+      based: "Dhaka"
+      doing: "University student"
+      association: "BUET"
+
 "2009-01-01":
     - headline: "🎓 Graduated from BUET"
       description: "Bachelor of Science in Electrical & Electronic Engineering"
