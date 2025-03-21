@@ -126,6 +126,15 @@
       doing: "Grad student"
       association: "UNM"
 
+"2016-07-22":
+    - headline: "💍 First anniversary"
+      
+"2017-07-22":
+    - headline: "💍 Second anniversary"
+      
+"2018-07-22":
+    - headline: "💍 Third anniversary"
+      
 "2019-05-01":
     - headline: "🏫 Georgia Tech"
       description: "Professor Calhoun moved his lab to Georgia Institute of Technology."
@@ -137,13 +146,25 @@
     - headline: "☀️ Moved to Atlanta"
       based: "Atlanta"
 
+"2019-07-22":
+    - headline: "💍 Fourth anniversary"
+      
+"2020-07-22":
+    - headline: "💍 Fifth anniversary"
+      
 "2021-05-03":
     - headline: "🐣 A born"
       description: "At last."
 
+"2021-07-22":
+    - headline: "💍 Sixth anniversary"
+      
 "2022-05-03":
     - headline: "👶 A turned 1"
 
+"2022-07-22":
+    - headline: "💍 Seventh anniversary"
+      
 "2022-11-07":
     - headline: "🛗 RMS"
       description: "First job in US. Certified risk models used by (re)insurance companies."
@@ -153,6 +174,9 @@
 "2023-05-03":
     - headline: "👶 A turned 2"
 
+"2023-07-22":
+    - headline: "💍 Eighth anniversary"
+      
 "2023-10-17":
     - headline: "🎓 Graduated from Georgia Tech with a PhD"
       description: "Doctor of Philosophy in Electrical & Computer Engineering"
@@ -161,12 +185,17 @@
 
 "2023-11-07":
     - headline: "🏠 Moved to California"
+      based: "California"
 
 "2024-05-03":
     - headline: "👶 A turned 3"
 
+"2024-07-22":
+    - headline: "💍 Ninth anniversary"
+      
 "2024-12-25":
     - headline: "🏠 Bought a house"
+      based: "California"
 
 # "1989-11-23":
 #     - headline: "🎫 First concert"
